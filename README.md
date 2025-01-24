@@ -1,6 +1,7 @@
 # Zoomerbinis-study-allocation
 
-####_Background_
+#### _Background_  
+
 Zoomerbinis are mystical creatures known for their brilliant minds, particularly in solving logic puzzles. Like their forebearers, each one has a distinct combination of attributes that defines their style and unique character. Unfortunately, while brimming with potential, they're a bit of a shy bunch. They're struggling to form optimal study groups for their university subjects, and require a (would you guess it) Python programmer to come to their rescue!
 
 Thankfully, the Zoomerbinis have your help and guidance. Your challenge in this project is to write some Python code to help them compute an optimal set of study groups, thus enabling them to reach their full potential!
@@ -8,7 +9,7 @@ Thankfully, the Zoomerbinis have your help and guidance. Your challenge in this 
 ![z](images/z.png) 
 
 
-###Zoomerbinis
+### Zoomerbinis
 
 There are 256 "types" of Zoomerbinis, each having a corresponding numeric identifier (a "type ID") represented as an integer between 0 and 255 inclusive. The figure below depicts the full mapping. You can also view an enlarged version of the same figure here.
 
